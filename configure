@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "\n*********"
+echo "En developpement. Ce script reste à développer"
+echo "Merci de contribuer si vous pouvez\n"
+
